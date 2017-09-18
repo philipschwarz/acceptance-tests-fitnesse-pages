@@ -8,6 +8,7 @@ FooPage
 BarPage
 BazPage
 WazPage
+DazPage
 
 |'''To Learn More...'''                                                                                    |
 |[[User Guide][.FitNesse.UserGuide]]                           |''Answer the rest of your questions here.''|
