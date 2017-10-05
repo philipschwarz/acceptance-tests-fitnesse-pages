@@ -12,6 +12,7 @@ DazPage
 
 FOO
 BAR
+BAZ
 
 |'''To Learn More...'''                                                                                    |
 |[[User Guide][.FitNesse.UserGuide]]                           |''Answer the rest of your questions here.''|
