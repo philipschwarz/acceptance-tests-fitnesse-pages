@@ -11,6 +11,7 @@ WazPage
 DazPage
 
 FOO
+BAR
 
 |'''To Learn More...'''                                                                                    |
 |[[User Guide][.FitNesse.UserGuide]]                           |''Answer the rest of your questions here.''|
