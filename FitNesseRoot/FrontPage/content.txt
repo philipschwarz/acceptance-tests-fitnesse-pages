@@ -10,6 +10,8 @@ BazPage
 WazPage
 DazPage
 
+FOO
+
 |'''To Learn More...'''                                                                                    |
 |[[User Guide][.FitNesse.UserGuide]]                           |''Answer the rest of your questions here.''|
 |[[A Two-Minute Example][.FitNesse.UserGuide.TwoMinuteExample]]|''A brief example. Read this one next.''   |
